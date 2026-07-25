@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
-
+PYTHON_VERSION=3.11.11
 # ---------------------------------------------------------
 # 1. PAGE CONFIGURATION
 # ---------------------------------------------------------
